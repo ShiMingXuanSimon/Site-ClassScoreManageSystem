@@ -8,7 +8,7 @@ export default {
       { text: '下载', link: '/download/' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ShiMingXuanSimon/ClassScoreManagementSystem' }
+      { icon: 'github', link: 'https://github.com/ShiMingXuanSimon/Site-ClassScoreManageSystem' }
     ]
   }
 }
