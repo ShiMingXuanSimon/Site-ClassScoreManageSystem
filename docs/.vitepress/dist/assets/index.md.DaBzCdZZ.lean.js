@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,ae as n}from"./chunks/framework.BD9pLfSD.js";const p=JSON.parse('{"title":"班级积分管理系统","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),s={name:"index.md"};function i(r,e,l,h,d,c){return t(),o("div",null,[...e[0]||(e[0]=[n("",24)])])}const m=a(s,[["render",i]]);export{p as __pageData,m as default};
